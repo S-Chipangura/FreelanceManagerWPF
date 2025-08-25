@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9+BBdEi4Kw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shelt\\OneDrive\\Desktop\\FreelanceInvoiceManagerWPF\\FreelanceManagerWPF\\FreelanceManagerWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shelt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
